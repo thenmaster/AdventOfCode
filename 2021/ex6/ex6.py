@@ -29,7 +29,7 @@ class Fish(object):
 		return "Fish start=" + str(self.start) + " current=" + str(self.current)
 
 if len(sys.argv) < 2:
-	print("Usage: python3 ex5.py <filename>")
+	print("Usage: python3 ex6.py <filename>")
 	quit()
 
 filename = sys.argv[1]
