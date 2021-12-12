@@ -1,7 +1,7 @@
 import sys
 
 if len(sys.argv) < 2:
-	print("Usage: python3 ex10.py <filename>")
+	print("Usage: python3 ex12.py <filename>")
 	quit()
 
 filename = sys.argv[1]
